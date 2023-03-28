@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+- 🌱 I’m currently learning HTML, CSS, JS, NodeJS, SQL, React
+- 📫 How to reach me: @kaiquecamposdev
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Silly
+
 <!--
 **Kaique-de-campos/Kaique-de-campos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
