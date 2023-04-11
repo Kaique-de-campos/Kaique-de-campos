@@ -1,7 +1,11 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Kaique 👋</h1>
 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/kaiquecamposdev)](https://github.com/kaiquecamposdev)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaiquecamposm/)](https://www.linkedin.com/in/kaiquecamposm/)
 
-- 🌱 I’m currently learning HTML, CSS, JS, NodeJS, SQL, React
+### About me
+
+- 🌱 I’m currently learning HTML, CSS, JS, NodeJS, SQL, ReactJS
 - 📫 How to reach me: @kaiquecamposdev
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Silly
