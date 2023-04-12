@@ -11,7 +11,6 @@
 - 📫 How to reach me: @kaiquecamposdev
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Silly
-- 
 <hr>
 
 <div align="center">
