@@ -32,8 +32,13 @@
 </p>
 
 <br><br>
-                                                                                                                  
-<img align="left" width="460px" height="198px" src="https://github-readme-stats.vercel.app/api?username=kaiquecamposdev&theme=radical"></img> <img align="right" width="460px" height="198px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquecamposdev&layout=compact&theme=radical"></img>
+  
+<div>
+
+<img align="left" width="450px" height="195px" src="https://github-readme-stats.vercel.app/api?username=kaiquecamposdev&theme=radical"></img> 
+<img align="right" width="450px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquecamposdev&layout=compact&theme=radical"></img>
+
+</div>
 
 
 <!--
