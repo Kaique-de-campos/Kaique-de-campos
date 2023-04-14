@@ -1,12 +1,16 @@
 <h1 align="left">Hello! I'm Kaique Campos</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaiquecamposdev&color=blueviolet" alt="Profile views" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=kaiquecamposdev&color=blueviolet" alt="Profile views" /></p>
 
 ### About me
 
-- 🌱 I’m currently learning: **NodeJS, SQL and ReactJS**
-- 📫 How to reach me: <a href="https://github.com/kaiquecamposdev" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-kaiquecamposdev-05122A?style=flat&logo=github" alt="github"/></a>
+- 🌱 I’m currently learning **NodeJS, SQL, ReactJS**
+
+- 📫 How to reach me: <a href="https://github.com/kaiquecamposdev" target="_blank"> <img align="center" src="https://img.shields.io/badge/-kaiquecamposdev-05122A?style=flat&logo=github" alt="github"/></a>
+
+- 💬 Ask me about **JavaScript, HTML, CSS**
+  
 - 😄 Pronouns: **He/Him**
+
 - ⚡ Fun fact: **Silly**
 
 
@@ -15,7 +19,7 @@
  
  ## Contact
 
-<p align="center" style="background:"purple">
+<p align="left" style="background:"purple">
                                           
 <a href="https://linkedin.com/in/kaiquecamposm" target="_blank">
   <img align="left" src="https://img.shields.io/badge/-kaiquecamposm-05122A?style=flat&logo=linkedin" alt="linkedin"/>
@@ -28,13 +32,10 @@
 </p>
 
 <br><br>
+                                                                                                                  
+<img align="left" width="460px" height="198px" src="https://github-readme-stats.vercel.app/api?username=kaiquecamposdev&theme=radical"></img>
+<img align="right" width="460px" height="198px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquecamposdev&layout=compact&theme=radical"></img>
 
-<div align="center" display="flex"> 
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiquecamposdev&theme=radical)](https://github.com/kaiquecamposdev/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquecamposdev&layout=compact&theme=radical)](https://github.com/kaiquecamposdev/github-readme-stats) 
-  
-</div>
 
 <!--
 **Kaique-de-campos/Kaique-de-campos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
