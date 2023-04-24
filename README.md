@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: <a href="https://github.com/kaiquecamposdev" target="_blank"> <img align="center" src="https://img.shields.io/badge/-kaiquecamposdev-05122A?style=flat&logo=github" alt="github"/></a>
 
-- 💬 Ask me about **JavaScript, HTML, CSS**
+- 💬 Ask me about **JavaScript, ReactJS**
   
 - 😄 Pronouns: **He/Him**
 
