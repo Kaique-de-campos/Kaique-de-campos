@@ -13,7 +13,18 @@
 
 - ⚡ Fun fact: **Silly**
 
-<br>
+<br><br>
+
+<div align="center">
+  
+  <div align="center" >
+      <img src="https://github-readme-stats.vercel.app/api?username=kaiquecamposdev&theme=radical" width="400" height="190" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquecamposdev&layout=compact&theme=radical" width="400" height="190"  />
+  </div>                                                                                                                                
+  
+</div>
+
+<br><br>
 
 <div>
   <h2 align="center">Technologies</h2>
@@ -35,22 +46,6 @@
   <a href = "mailto:kaiquedecampos2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">   </a>
   <a href="https://linkedin.com/in/kaiquecamposm" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>     
-
-<br><br>
-  
-<div align="center">
-
-<img align="left" width="450px" height="195px" src="https://github-readme-stats.vercel.app/api?username=kaiquecamposdev&theme=radical"></img> 
-                                                                                                                                      
-</div>
-                                                                                                                                      
-<div align="center">
-                                                                                                                                      
-<img align="right" width="450px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquecamposdev&layout=compact&theme=radical"></img>
-
-</div>
-
-
 <!--
 **Kaique-de-campos/Kaique-de-campos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
