@@ -7,35 +7,45 @@
 
 - 📫 How to reach me: <a href="https://github.com/kaiquecamposdev" target="_blank"> <img align="center" src="https://img.shields.io/badge/-kaiquecamposdev-05122A?style=flat&logo=github" alt="github"/></a>
 
-- 💬 Ask me about **JavaScript, ReactJS**
+- 💬 Ask me about **HTML, CSS, JavaScript, ReactJS**
   
 - 😄 Pronouns: **He/Him**
 
 - ⚡ Fun fact: **Silly**
 
+<br>
 
+<div>
+  <h2 align="center">Technologies</h2>
+   <div align="center">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  align="center" alt="img-css" height="40" width="40" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  align="center" alt="img-html" height="40" width="40"/>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align="center" alt="img-Js" height="40" width="40" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" align="center" alt="img-Js" height="40" width="40" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" align="center" alt="img-Js" height="40" width="40"/>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" align="center" alt="img-git" height="40" width="40" />
+   </div>
+</div>
 
 <br><br>
- 
- ## Contact
-
-<p align="left" style="background:"purple">
                                           
-<a href="https://linkedin.com/in/kaiquecamposm" target="_blank">
-  <img align="left" src="https://img.shields.io/badge/-kaiquecamposm-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-                                                                                                                      
-<a href="https://instagram.com/Iamk_aique" target="_blank">
- <img align="left" src="https://img.shields.io/badge/-Iamk_aique-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-                                                                                                                    
-</p>
+<div align="center">
+  <h2> Contact </h2>
+  <a href="https://instagram.com/Iamk_aique" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:kaiquedecampos2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">   </a>
+  <a href="https://linkedin.com/in/kaiquecamposm" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>     
 
 <br><br>
   
-<div>
+<div align="center">
 
 <img align="left" width="450px" height="195px" src="https://github-readme-stats.vercel.app/api?username=kaiquecamposdev&theme=radical"></img> 
+                                                                                                                                      
+</div>
+                                                                                                                                      
+<div align="center">
+                                                                                                                                      
 <img align="right" width="450px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquecamposdev&layout=compact&theme=radical"></img>
 
 </div>
