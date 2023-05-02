@@ -1,4 +1,4 @@
-<h1 align="left">Hello! I'm Kaique Campos</h1>
+<h1 align="left">Hello! I'm Kaique Campos <img src="https://raw.githubusercontent.com/gist/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/Hi.gif" width="24" height="24"/></h1>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=kaiquecamposdev&color=blueviolet" alt="Profile views" /></p>
 
 ### About me
@@ -15,17 +15,6 @@
 
 <br><br>
 
-<div align="center">
-  
-  <div align="center" >
-      <img src="https://github-readme-stats.vercel.app/api?username=kaiquecamposdev&theme=radical" width="400" height="190" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquecamposdev&layout=compact&theme=radical" width="400" height="190"  />
-  </div>                                                                                                                                
-  
-</div>
-
-<br><br>
-
 <div>
   <h2 align="center">Technologies</h2>
    <div align="center">
@@ -36,6 +25,17 @@
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" align="center" alt="img-Js" height="40" width="40"/>
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" align="center" alt="img-git" height="40" width="40" />
    </div>
+</div>
+
+<br><br>
+
+<div align="center">
+  
+  <div align="center" >
+      <img src="https://github-readme-stats.vercel.app/api?username=kaiquecamposdev&theme=radical" width="400" height="190" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquecamposdev&layout=compact&theme=radical" width="400" height="190"  />
+  </div>                                                                                                                                
+  
 </div>
 
 <br><br>
