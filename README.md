@@ -1,9 +1,15 @@
-<h1 align="left">Hello! I'm Kaique Campos <img src="https://raw.githubusercontent.com/gist/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/Hi.gif" width="24" height="24"/></h1>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=kaiquecamposdev&color=blueviolet" alt="Profile views" /></p>
+<h1 align="center">
+Hello! I'm Kaique de Campos
+<img src="https://raw.githubusercontent.com/gist/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/Hi.gif" width="24" height="24"/>
+</h1>
+<p align="center">
+  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=500&size=25&duration=2000&pause=1000&color=FFFFFF&width=435&lines=Front-end+Developer+%3C3">
+</p>
 
 ### About me
 
-- 🌱 I’m currently learning **NodeJS, SQL, ReactJS**
+- 🌱 I’m currently learning **NodeJS, SQL, ReactJS, TypeScript**
 
 - 📫 How to reach me: <a href="https://github.com/kaiquecamposdev" target="_blank"> <img align="center" src="https://img.shields.io/badge/-kaiquecamposdev-05122A?style=flat&logo=github" alt="github"/></a>
 
