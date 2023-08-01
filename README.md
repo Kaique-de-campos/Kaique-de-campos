@@ -35,17 +35,6 @@ Hello! I'm Kaique de Campos
 </div>
 
 <br><br>
-
-<div align="center">
-  
-  <div align="center" >
-      <img src="https://github-readme-stats.vercel.app/api?username=kaiquecamposdev&theme=radical" width="400" height="190" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquecamposdev&layout=compact&theme=radical" width="400" height="190"  />
-  </div>                                                                                                                                
-  
-</div>
-
-<br><br>
                                           
 <div align="center">
   <h2> Contact </h2>
