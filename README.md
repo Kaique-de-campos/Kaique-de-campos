@@ -9,11 +9,11 @@ Hello! I'm Kaique de Campos
 
 ### About me
 
-- 🌱 I’m currently learning **NodeJS, SQL, ReactJS, TypeScript**
+- 🌱 I’m currently learning **Node, ReactJS, TypeScript, Java, PHP**
 
 - 📫 How to reach me: <a href="https://github.com/kaiquecamposdev" target="_blank"> <img align="center" src="https://img.shields.io/badge/-kaiquecamposdev-05122A?style=flat&logo=github" alt="github"/></a>
 
-- 💬 Ask me about **HTML, CSS, JavaScript, ReactJS**
+- 💬 Ask me about **HTML, CSS, JavaScript, Typescript, ReactJS**
   
 - 😄 Pronouns: **He/Him**
 
