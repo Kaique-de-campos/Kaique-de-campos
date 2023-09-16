@@ -9,16 +9,14 @@ Hello! I'm Kaique de Campos
 
 ### About me
 
-- 🌱 I’m currently learning **Node, ReactJS, TypeScript, Java, PHP**
-
-- 📫 How to reach me: <a href="https://github.com/kaiquecamposdev" target="_blank"> <img align="center" src="https://img.shields.io/badge/-kaiquecamposdev-05122A?style=flat&logo=github" alt="github"/></a>
-
-- 💬 Ask me about **HTML, CSS, JavaScript, Typescript, ReactJS**
+  - 🌱 I’m currently learning **TypeScript, NodeJS, ReactJS, Java, PHP**
   
-- 😄 Pronouns: **He/Him**
-
-- ⚡ Fun fact: **Silly**
-
+  - 💬 Ask me about **JavaScript, Typescript, ReactJS, NodeJS**
+    
+  - 😄 Pronouns: **He/Him**
+  
+  - ⚡ Fun fact: **Silly**
+  
 <br><br>
 
 <div>
@@ -28,6 +26,8 @@ Hello! I'm Kaique de Campos
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" align="center" alt="img-Ts" height="40" width="40"/>
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" align="center" alt="img-React" height="40" width="40" />
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" align="center" alt="img-Node" height="40" width="40" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" align="center" alt="img-Node" height="40" width="40" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" align="center" alt="img-Node" height="40" width="40" />
    </div>
 </div>
 
