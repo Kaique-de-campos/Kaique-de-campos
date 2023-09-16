@@ -4,7 +4,7 @@ Hello! I'm Kaique de Campos
 </h1>
 <p align="center">
   
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=500&size=25&duration=2000&pause=1000&color=FFFFFF&width=435&lines=Front-end+Developer+%3C3">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=500&size=25&duration=2000&pause=1000&color=FFFFFF&width=435&lines=Web+Developer+%3C3">
 </p>
 
 ### About me
@@ -24,13 +24,10 @@ Hello! I'm Kaique de Campos
 <div>
   <h2 align="center">Technologies</h2>
    <div align="center">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  align="center" alt="img-css" height="40" width="40" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  align="center" alt="img-html" height="40" width="40"/>
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align="center" alt="img-Js" height="40" width="40" />
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" align="center" alt="img-Ts" height="40" width="40"/>
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" align="center" alt="img-React" height="40" width="40" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" align="center" alt="img-Next" height="40" width="40" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" align="center" alt="img-git" height="40" width="40" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" align="center" alt="img-Node" height="40" width="40" />
    </div>
 </div>
 
