@@ -27,7 +27,6 @@ Hello! I'm Kaique de Campos
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" align="center" alt="img-React" height="40" width="40" />
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" align="center" alt="img-Node" height="40" width="40" />
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" align="center" alt="img-Node" height="40" width="40" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" align="center" alt="img-Node" height="40" width="40" />
    </div>
 </div>
 
