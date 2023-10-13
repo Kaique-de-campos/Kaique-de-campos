@@ -9,13 +9,11 @@ Hello! I'm Kaique de Campos
 
 ### About me
 
-  - 🌱 I’m currently learning **TypeScript, NodeJS, ReactJS, Java, PHP**
+  - 🌱 I’m currently learning **TypeScript, ReactJS, Tailwindcss, NodeJS, Java, SpringBoot, PHP**
   
-  - 💬 Ask me about **JavaScript, Typescript, ReactJS, NodeJS**
+  - 💬 Ask me about **JavaScript, Typescript, ReactJS, Tailwindcss, NodeJS**
     
   - 😄 Pronouns: **He/Him**
-  
-  - ⚡ Fun fact: **Silly**
   
 <br><br>
 
@@ -25,8 +23,12 @@ Hello! I'm Kaique de Campos
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align="center" alt="img-Js" height="40" width="40" />
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" align="center" alt="img-Ts" height="40" width="40"/>
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" align="center" alt="img-React" height="40" width="40" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" align="center" alt="img-Tailwindcss" height="40" width="40" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" align="center" alt="img-Figma" height="40" width="40" />
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" align="center" alt="img-Node" height="40" width="40" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" align="center" alt="img-Node" height="40" width="40" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" align="center" alt="img-Java" height="40" width="40" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" align="center" alt="img-Spring" height="40" width="40" />
+     
    </div>
 </div>
 
