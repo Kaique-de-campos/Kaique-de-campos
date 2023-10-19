@@ -1,55 +1,43 @@
-<h1 align="center">
-Hello! I'm Kaique de Campos
-<img src="https://raw.githubusercontent.com/gist/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/Hi.gif" width="24" height="24"/>
-</h1>
-<p align="center">
-  
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=500&size=25&duration=2000&pause=1000&color=FFFFFF&width=435&lines=Web+Developer+%3C3">
+## Hello! I'm Kaique Campos M. 👋  
+<br/>
+
+<!-- <img src="" /> -->
+<p>
+  I'm a passionate fullstack developer specializing in frontend, <br/>
+  who enjoys crafting logic and solving problems through coding. 
 </p>
+<br/>
+
+<a href="https://linkedin.com/in/kaiquecamposm" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
+</a>
+<a href = "mailto:kaiquedecampos2@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
+</a>  
+<a href="https://instagram.com/Iamk_aique" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/>
+</a>
 
 ### About me
+<br/>
 
-  - 🌱 I’m currently learning **TypeScript, ReactJS, Tailwindcss, NodeJS, Java, SpringBoot, PHP**
-  
-  - 💬 Ask me about **JavaScript, Typescript, ReactJS, Tailwindcss, NodeJS**
-    
-  - 😄 Pronouns: **He/Him**
-  
-<br><br>
+```js
+  const kiq = {
+      pronouns: 'He' | 'Him',
+      programming: [ Javascript, Typescript ],
+      front_end: [ React, Tailwind ],
+      back_end: [ Node, Prisma, Docker ],
+      databases: [ PostgreSQL ],
+      currently_learning: [ Typescript, React, Docker, Prisma, PostgreSQL, Java, SpringBoot ],
+      personal: {
+                  games: [ 'COD Ghost', 'MW2', 'Gta 5', 'RDR 2', 'Rocket League', 'Hollow Knight', 'Undertale', 'Deltarune 1&2' ],
+                  bands: [ 'The Beatles', 'SOAD', 'A7x' ],
+                  genres: ['Rock', 'Pagode', 'Samba', 'Rap/Trap', 'Blues'],
+                  drinks: ['Energy Drink', 'Coffee']
+      },
+  }
+```
 
-<div>
-  <h2 align="center">Technologies</h2>
-   <div align="center">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align="center" alt="img-Js" height="40" width="40" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" align="center" alt="img-Ts" height="40" width="40"/>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" align="center" alt="img-React" height="40" width="40" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" align="center" alt="img-Tailwindcss" height="40" width="40" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" align="center" alt="img-Figma" height="40" width="40" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" align="center" alt="img-Node" height="40" width="40" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" align="center" alt="img-Java" height="40" width="40" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" align="center" alt="img-Spring" height="40" width="40" />
-     
-   </div>
-</div>
+---
 
-<br><br>
-                                          
-<div align="center">
-  <a href="https://instagram.com/Iamk_aique" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:kaiquedecampos2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">   </a>
-  <a href="https://linkedin.com/in/kaiquecamposm" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>     
-<!--
-**Kaique-de-campos/Kaique-de-campos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<em> "Life is like riding a bicycle. To keep your balance, you must keep moving." - Albert Einstein </em>
