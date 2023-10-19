@@ -1,9 +1,9 @@
 ## Hello! I'm Kaique Campos M. 👋  
 <br/>
 
-<!-- <img src="" /> -->
+<img src="./kris.gif" align="right" width="50%"/>
 <p>
-  I'm a passionate fullstack developer specializing in frontend, <br/>
+  I'm a passionate <strong>fullstack developer specializing in frontend</strong>, <br/>
   who enjoys crafting logic and solving problems through coding. 
 </p>
 <br/>
@@ -22,20 +22,22 @@
 <br/>
 
 ```js
-  const kiq = {
-      pronouns: 'He' | 'Him',
-      programming: [ Javascript, Typescript ],
-      front_end: [ React, Tailwind ],
-      back_end: [ Node, Prisma, Docker ],
-      databases: [ PostgreSQL ],
-      currently_learning: [ Typescript, React, Docker, Prisma, PostgreSQL, Java, SpringBoot ],
-      personal: {
-                  games: [ 'COD Ghost', 'MW2', 'Gta 5', 'RDR 2', 'Rocket League', 'Hollow Knight', 'Undertale', 'Deltarune 1&2' ],
-                  bands: [ 'The Beatles', 'SOAD', 'A7x' ],
-                  genres: ['Rock', 'Pagode', 'Samba', 'Rap/Trap', 'Blues'],
-                  drinks: ['Energy Drink', 'Coffee']
-      },
-  }
+const kiq = {
+  pronouns: 'He' | 'Him',
+  programming: [ Javascript, Typescript ],
+  front_end: [ React, Tailwind ],
+  back_end: [ Node, Prisma, Docker ],
+  databases: [ PostgreSQL ],
+  currently_learning: [
+    Typescript, React, Docker, Prisma, PostgreSQL
+  ],
+  personal: {
+    games: [ 'RDR2', 'MW2', 'Hollow Knight', 'Deltarune 1&2' ],
+    bands: [ 'The Beatles', 'SOAD', 'A7x' ],
+    genres: [ 'Rock', 'Pagode', 'Samba', 'Rap/Trap' ],
+    drinks: [ 'Energy Drink', 'Coffee' ]
+  },
+}
 ```
 
 ---
