@@ -1,7 +1,6 @@
 ## Hello! I'm Kaique Campos M. 👋  
-<br/>
 
-<img src="./kris.gif" align="right" width="50%"/>
+<img src="./kris.gif" align="right" width="40%"/>
 <p>
   I'm a passionate <strong>fullstack developer specializing in frontend</strong>, <br/>
   who enjoys crafting logic and solving problems through coding. 
@@ -28,9 +27,7 @@ const kiq = {
   front_end: [ React, Tailwind ],
   back_end: [ Node, Prisma, Docker ],
   databases: [ PostgreSQL ],
-  currently_learning: [
-    Typescript, React, Docker, Prisma, PostgreSQL
-  ],
+  currently_learning: [ Typescript, React, Docker, Prisma, PostgreSQL ],
   personal: {
     games: [ 'RDR2', 'MW2', 'Hollow Knight', 'Deltarune 1&2' ],
     bands: [ 'The Beatles', 'SOAD', 'A7x' ],
