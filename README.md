@@ -23,6 +23,11 @@
 ```js
 const kiq = {
   pronouns: 'He' | 'Him',
+  university: {
+    UNIP: {
+    course: "Analysis and systems development",
+  }
+  },
   programming: [ Javascript, Typescript ],
   front_end: [ React, Tailwind ],
   back_end: [ Node, Prisma, Docker ],
