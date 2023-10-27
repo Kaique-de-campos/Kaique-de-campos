@@ -31,8 +31,7 @@ const kiq = {
   programming: [ Javascript, Typescript ],
   front_end: [ React, Tailwind ],
   back_end: [ Node, Prisma, Docker ],
-  databases: [ PostgreSQL ],
-  currently_learning: [ React, Docker, Prisma, PostgreSQL ],
+  currently_learning: [ React, Docker, Prisma, Knex, Jest, PostgreSQL ],
   personal: {
     games: [ 'RDR2', 'MW2', 'Hollow Knight', 'Deltarune 1&2' ],
     bands: [ 'The Beatles', 'SOAD', 'A7x' ],
