@@ -5,30 +5,23 @@
   I'm a passionate <strong>fullstack developer specializing in frontend</strong>, <br/>
   who enjoys crafting logic and solving problems through coding. 
 </p>
-<br/>
 
 <a href="https://linkedin.com/in/kaiquecamposm" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
 </a>
 
 ### About me
-<br/>
 
 ```js
 const kiq = {
   pronouns: 'He' | 'Him',
-  university: {
-    UNIP: {
-      course: "Analysis and systems development",
-    }
-  },
-  programming: [ Javascript, Typescript ],
+  programming: [ Javascript, Typescript, ],
   front_end: [ React, Tailwind ],
-  back_end: [ Node, Prisma, Docker ],
-  currently_learning: [ React, Docker, Prisma, Knex, Jest, PostgreSQL ],
+  back_end: [ Nodejs, Prisma, Docker ],
+  currently_learning: [ Rust ],
 }
 ```
 
 ---
 
-<em> "Life is like riding a bicycle. To keep your balance, you must keep moving." - Albert Einstein </em>
+<em> "Life is like riding a bicycle. To keep your **balance**, you must **keep moving.**" - Albert Einstein </em>
