@@ -17,8 +17,8 @@ const kiq = {
   pronouns: 'He' | 'Him',
   programming: [ Javascript, Typescript, ],
   front_end: [ React, Tailwind ],
-  back_end: [ Nodejs, Prisma, Docker ],
-  currently_learning: [ Rust ],
+  back_end: [ Nodejs, Docker ],
+  currently_learning: [ Algorithms, Rust ],
 }
 ```
 
