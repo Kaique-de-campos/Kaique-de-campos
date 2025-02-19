@@ -13,8 +13,7 @@
 ### About me
 
 ```js
-const kiq = {
-  pronouns: 'He' | 'Him',
+const kaique = {
   programming: [ Javascript, Typescript, ],
   front_end: [ React, Tailwind ],
   back_end: [ Nodejs, Docker ],
